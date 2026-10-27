@@ -22,8 +22,8 @@ built end to end: product idea, design, code and deploy.
     <td width="50%" valign="top">
       <a href="https://dewstick.vercel.app"><img src="images/dewstick.webp" alt="dewstick storefront"></a>
       <h3><a href="https://github.com/Jolin-ma/dewstick">dewstick</a></h3>
-      A tinted lip balm brand, end to end: a bilingual (EN / 中文) storefront with a working cart, plus a custom Shopify theme.<br><br>
-      <sub>Shopify Liquid · Tailwind · Python · Vercel</sub><br>
+      A tinted lip balm brand: one bilingual (EN / 中文) storefront built four ways — Next.js + React on the Shopify Storefront API, a custom Shopify theme, WordPress + WooCommerce, and a static site.<br><br>
+      <sub>Next.js · React · TypeScript · Shopify Liquid · WordPress · Vercel</sub><br>
       <a href="https://dewstick.vercel.app">Live site ↗</a>
     </td>
   </tr>
@@ -48,7 +48,7 @@ built end to end: product idea, design, code and deploy.
 ## What I work with
 
 - **Front end:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Framer Motion
-- **E-commerce:** Shopify (Online Store 2.0 themes, Liquid)
+- **E-commerce:** Shopify (Online Store 2.0 themes, Liquid, Storefront API), WordPress + WooCommerce
 - **Back end & data:** Next.js route handlers, Prisma, PostgreSQL, Supabase, Auth.js
 - **Shipping:** Vercel, Git & GitHub, Formspree, Resend
 - **Design:** UI / UX, responsive layouts, design systems
