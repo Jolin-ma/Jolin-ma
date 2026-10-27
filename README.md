@@ -36,7 +36,7 @@ built end to end: product idea, design, code and deploy.
       <a href="https://legacylinkstudio.com">Live site ↗</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://www.msg-in-a-bottle.com"><img src="images/msg-in-a-bottle.png" alt="Msg In A Bottle sign-in screen"></a>
+      <a href="https://www.msg-in-a-bottle.com"><img src="images/msg-in-a-bottle.webp" alt="Msg In A Bottle sign-in screen"></a>
       <h3><a href="https://github.com/Jolin-ma/Msg-In-A-Bottle">Msg In A Bottle</a></h3>
       A physics-based digital diary: what you type breaks into letters that fall and pile up. Share a private link and keep the pile growing together.<br><br>
       <sub>Next.js · React · TypeScript · Matter.js · Prisma · PostgreSQL</sub><br>
