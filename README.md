@@ -6,11 +6,20 @@ feel intuitive, and work on every screen. Each project below is live and
 built end to end: product idea, design, code and deploy.
 
 **Open to web design and front-end opportunities.**
-[Portfolio](https://jolin-ma.github.io/Portfolio/) · [Get in touch](https://jolin-ma.github.io/Portfolio/#contact)
+[Portfolio](https://jolinma.vercel.app) · [Get in touch](https://jolinma.vercel.app/#contact)
 
 ## Featured work
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://jolinma.vercel.app"><img src="images/portfolio-v2.webp" alt="Jolin Ma portfolio homepage"></a>
+      <h3><a href="https://github.com/Jolin-ma/portfolio-v2">Portfolio v2</a></h3>
+      My new portfolio: a statically exported Next.js site with a case study for each project below and custom illustrated art. No UI libraries, just React and CSS.<br><br>
+      <sub>Next.js · React · TypeScript · CSS · Vercel</sub><br>
+      <a href="https://jolinma.vercel.app">Live site ↗</a> · <a href="https://jolin-ma.github.io/Portfolio/">Version one ↗</a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://www.busyseason.ca"><img src="images/busy-season.webp" alt="Busy Season homepage"></a>
